@@ -1,4 +1,4 @@
-# Trabalho 1 Gerenciamento e Configuração de Sofwtare
+# Trabalho 1 Gerenciamento e Configuração de Software
 Alunos: Álvaro Machado e Pedro Soares
 
 Problema: https://www.beecrowd.com.br/judge/en/problems/view/1099
