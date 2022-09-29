@@ -41,4 +41,4 @@ Para clonar o repositório:
 <p>mvn package
 <p>java -jar target/gs-maven-0.1.0.jar
 
-![Deploy badge](https://github.com/alvarocgm>/gcst1/actions/workflows/codeql.yml/badge.svg)
+![Deploy badge](https://github.com/alvarocgm/gcst1/actions/workflows/codeql.yml/badge.svg)
