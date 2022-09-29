@@ -14,22 +14,22 @@ The first line of input is an integer N that is the number of test cases that fo
 Output
 Print the sum of all odd numbers between X and Y.
 
-Input Sample	
-7
-4 5
-13 10
-6 4
-3 3
-3 5
-3 4
-3 8
-Output Sample
-0
-11
-5
-0
-0
-0
-12
+<p>Input Sample	
+<p>7
+<p>4 5
+<p>13 10
+<p>6 4
+<p>3 3
+<p>3 5
+<p>3 4
+<p>3 8
+<p>Output Sample
+<p>0
+<p>11
+<p>5
+<p>0
+<p>0
+<p>0
+<p>12
 
 
