@@ -1,4 +1,4 @@
-https://camo.githubusercontent.com/b52c1dadb09d38ae46ac429ace2cbed4aac88246918b4aa66b0ad1d144f6a7d8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f776f726b666c6f772f7374617475732f505a6172642f6763732d74312f6d6176656e
+
 
 # Trabalho 1 Gerenciamento e Configuração de Software
 Alunos: Álvaro Machado e Pedro Soares
