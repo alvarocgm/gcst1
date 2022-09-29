@@ -31,5 +31,10 @@ Print the sum of all odd numbers between X and Y.
 <p>0
 <p>0
 <p>12
-
+  
+Para clonar o repositório:
+git clone https://github.com/alvarocgm/gcst1.git
+cd gcst1
+mvn package
+java -jar target/gs-maven-0.1.0.jar
 
