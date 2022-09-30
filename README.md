@@ -49,9 +49,9 @@ Para clonar o repositório com os testes e fazendo o programa rodar automaticame
   
 <p>
   ------------
-  (MANUALMENTE)
-Para fazer o programa rodar manualmente:
-Para clonar o repositório:
+ <p> (MANUALMENTE)
+<p>Para fazer o programa rodar manualmente:
+<p>Para clonar o repositório:
 <p>git clone https://github.com/alvarocgm/gcst1.git
  <p> e os seguintes comandos:
   <p>cd gcst1
