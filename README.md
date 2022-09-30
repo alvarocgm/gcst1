@@ -48,6 +48,7 @@ Para clonar o repositório com os testes e fazendo o programa rodar automaticame
 <p>java -cp target\GCSTrab1Bee-1.0-BeeCrowd.jar T1.MainApp
   
 <p>
+  ------------
   (MANUALMENTE)
 Para fazer o programa rodar manualmente:
 Para clonar o repositório:
