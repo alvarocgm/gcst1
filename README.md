@@ -1,3 +1,6 @@
+![Deploy badge](https://github.com/alvarocgm/gcst1/actions/workflows/codeql.yml/badge.svg)
+![Deploy badge](https://github.com/alvarocgm/gcst1/actions/workflows/maven.yml/badge.svg)
+
 Trabalho 1 Gerenciamento e Configuração de Software
 Alunos: Álvaro Machado e Pedro Soares
 
