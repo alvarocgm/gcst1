@@ -38,7 +38,7 @@ Print the sum of all odd numbers between X and Y.
 Para clonar o repositório:
 <p>git clone -b bee --single-branch https://github.com/alvarocgm/gcst1.git
  <p> e os seguintes comandos:
-   // muda para o diretorio criado
+   <p>// muda para o diretorio criado
   <p>cd gcst1
  
 // faz os testes também
