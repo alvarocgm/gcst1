@@ -35,7 +35,7 @@ Print the sum of all odd numbers between X and Y.
 <p>0
 <p>12
   
-Para clonar o repositório com os testes e fazendo o programa rodar automaticamente:
+Para clonar o repositório com os testes e fazendo o programa rodar automaticamente: (dessa forma o N escolhido como mostrado acima é 7 e segue também os imputs e os resultados que vão ocorrer, para fazer manualmente escolhendo outros valores olhar mais abaixo)
 <p>git clone -b bee --single-branch https://github.com/alvarocgm/gcst1.git
  <p> e os seguintes comandos:
    <p>// muda para o diretorio criado
@@ -46,3 +46,14 @@ Para clonar o repositório com os testes e fazendo o programa rodar automaticame
   
 // roda o programa
 <p>java -cp target\GCSTrab1Bee-1.0-BeeCrowd.jar T1.MainApp
+  
+<p>
+  (MANUALMENTE)
+Para fazer o programa rodar manualmente:
+Para clonar o repositório:
+<p>git clone https://github.com/alvarocgm/gcst1.git
+ <p> e os seguintes comandos:
+  <p>cd gcst1
+<p>mvn package
+<p>java -jar target/gs-maven-0.1.0.jar
+
