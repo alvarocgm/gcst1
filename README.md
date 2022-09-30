@@ -39,5 +39,9 @@ Para clonar o repositório:
 <p>git clone -b bee --single-branch https://github.com/alvarocgm/gcst1.git
  <p> e os seguintes comandos:
   <p>cd gcst1
+ 
+// faz os testes também
 <p>mvn package
+  
+// roda o programa
 <p>java -cp target\GCSTrab1Bee-1.0-BeeCrowd.jar T1.MainApp
