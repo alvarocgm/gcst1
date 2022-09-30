@@ -1,18 +1,58 @@
-## Getting Started
+Trabalho 1 Gerenciamento e Configuração de Software
+Alunos: Álvaro Machado e Pedro Soares
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Problema: https://www.beecrowd.com.br/judge/en/problems/view/1099
 
-## Folder Structure
+Sum of Consecutive Odd Numbers II
 
-The workspace contains two folders by default, where:
+Read an integer N that is the number of test cases. Each test case is a line containing two integer numbers X and Y. Print the sum of all odd values between them, not including X and Y.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Input The first line of input is an integer N that is the number of test cases that follow. Each test case is a line containing two integer X and Y.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Output Print the sum of all odd numbers between X and Y.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Input Sample
 
-## Dependency Management
+7
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+4 5
+
+13 10
+
+6 4
+
+3 3
+
+3 5
+
+3 4
+
+3 8
+
+Output Sample
+
+0
+
+11
+
+5
+
+0
+
+0
+
+0
+
+12
+
+Para clonar o repositório:
+
+git clone https://github.com/alvarocgm/gcst1.git
+
+e os seguintes comandos:
+
+cd gcst1
+
+mvn package
+
+java -jar target/gs-maven-0.1.0.jar
